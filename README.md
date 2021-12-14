@@ -1,7 +1,7 @@
-- 👋 Hi, I’m Annie
-- 👀 I’m interested in Languages
-- 🌱 I’m currently learning HTML, CSS Y Javascript
-- 💞️ I’m looking to collaborate on the area of education
+- 👋 Hi, I’m Annie .
+- 👀 I’m interested in Languages .
+- 🌱 I’m currently learning HTML, CSS Y Javascript .
+- 💞️ I’m looking to collaborate on Education .
 - 📫 How to reach me, with exercises and more info .
 
 <!---
